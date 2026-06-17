@@ -1,0 +1,33 @@
++------------------+
+|   Sample Files   |
+| (PDF, JPG, TXT)  |
++--------+---------+
+         |
+         v
++------------------+
+| XFS / Btrfs File |
+|    Systems       |
++--------+---------+
+         |
+         v
++------------------+
+|  File Deletion   |
++--------+---------+
+         |
+         v
++------------------+
+| Recovery Tools   |
+| TestDisk/PhotoRec|
++--------+---------+
+         |
+         v
++------------------+
+| Metadata Analysis|
+| Name, Size, Time |
++--------+---------+
+         |
+         v
++------------------+
+| Comparison Report|
+| XFS vs Btrfs     |
++------------------+
