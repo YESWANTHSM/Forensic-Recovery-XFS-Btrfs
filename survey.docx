@@ -1,0 +1,51 @@
+# Literature Survey
+
+## Paper 1: Analysis of Data Recovery Techniques in Modern File Systems
+
+### Summary
+This paper discusses various techniques used for recovering deleted files from storage devices. It explains how different file systems manage deleted data and the challenges involved in recovery. The study highlights that file system architecture significantly affects recovery success.
+
+### Relevance to Project
+Provides knowledge about deleted file recovery mechanisms and forensic recovery methods.
+
+---
+
+## Paper 2: Digital Forensics in Linux File Systems
+
+### Summary
+This paper focuses on forensic investigation techniques in Linux file systems. It explains metadata analysis, evidence collection, and recovery methods used in cybercrime investigations.
+
+### Relevance to Project
+Helps understand forensic recovery and metadata examination in Linux environments.
+
+---
+
+## Paper 3: Comparative Analysis of XFS and Btrfs File Systems
+
+### Summary
+This paper compares XFS and Btrfs based on performance, storage management, and reliability. It discusses advanced features such as journaling, snapshots, and copy-on-write mechanisms.
+
+### Relevance to Project
+Provides background information for comparing forensic recovery capabilities of XFS and Btrfs.
+
+---
+
+## Paper 4: Metadata Analysis in Digital Forensics
+
+### Summary
+This paper explains the importance of metadata such as timestamps, file names, file sizes, permissions, and inode information in forensic investigations.
+
+### Relevance to Project
+Supports the metadata analysis phase of the proposed project.
+
+---
+
+## Research Gap
+
+Most existing studies focus on file recovery or performance analysis separately. Limited research has been conducted on comparative forensic recovery of deleted data and metadata specifically in XFS and Btrfs file systems.
+
+---
+
+## Conclusion
+
+The literature survey shows that deleted data recovery and metadata analysis are important aspects of digital forensics. XFS and Btrfs use different mechanisms for data management, making them suitable for comparative forensic investigation.
